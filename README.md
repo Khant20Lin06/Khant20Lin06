@@ -10,16 +10,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+KhantLin;I'm+20+years+old;I'm+from+Myanmar;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
- <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank">
+ <a href="https://www.linkedin.com/in/khant-lin-08ba43345/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="KhantLin"/>
  </a> 
- <a href="mailto:zayarnaing.st@gmail.com" target="_blank">
+ <a href="mailto:khant20lin061@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="KhantLin"/>
  </a>
- <a href="https://t.me/zayarnaing912" target="_blank">
+ <a href="https://t.me/khantlin0000" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="KhantLin" />
  </a>
- <a href="https://www.facebook.com/zayarnaing1011/" target="_blank">
+ <a href="https://web.facebook.com/khant.lin.763226/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="KhantLin"  />
   </a> 
 </p>
