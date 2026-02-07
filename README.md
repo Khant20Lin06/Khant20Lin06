@@ -1,59 +1,116 @@
-# Hi 👋, I'm Khant Lin 
-### A Passionate Full Stack Developer from Thailand 🇹🇭
+- 👋 Hi, I’m Khant Lin.
+- 👀 I’m interested in Django, React, ReactNative & Nextjs.
+- 🌱 I’m currently learning Django, Nextjs & React.
+- 💞️ I’m collaborating on E-commerece, POS & Business Websites.
+- 📫 You can reach me using accounts described on my profile. 
 
-<p align="left">
-<a href="https://linkedin.com/in/khant-lin-08ba43345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khant-lin" height="30" width="40" /></a>
-<a href="mailto:khant20lin061@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="khant20lin061" height="30" width="40" /></a>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-- 🔭 I’m currently working on **EmergencyMyanmar** and **NeeYr** 
-- 🌱 I’m currently learning **Next.js, Python (Django)** and **React Native** 
-- ⚡ Knowledge in: **Social Login, OTP, JWT Authentication** and **System Workflows** 
-- 📫 Reach me at: **khant20lin061@gmail.com** 
 
----
-
-### 🛠 Skills & Technologies
-
-**Frontend & Mobile**
-[cite_start]![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) [cite: 26, 27, 28]
-
-**Backend & Database**
-[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Tools**
-[cite_start]![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
----
-
-### 📊 GitHub Analytics
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+KhantLin;I'm+20+years+old;I'm+from+Myanmar;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khant20Lin06&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khant20Lin06&layout=compact&theme=dark&hide_border=true" />
+ <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="KhantLin"/>
+ </a> 
+ <a href="mailto:zayarnaing.st@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="KhantLin"/>
+ </a>
+ <a href="https://t.me/zayarnaing912" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="KhantLin" />
+ </a>
+  <a href="https://discordapp.com/users/1117664856653430805" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="KhantLin" />
+ </a> 
+ <a href="https://www.facebook.com/zayarnaing1011/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="KhantLin"  />
+  </a> 
+</p>
+
+![Khant20Lin06's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=Khant20Lin06&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+
+### 👨‍💻 Top Languages Used:
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MgZayarNaing&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MgZayarNaing&theme=nord_dark" alt="Top Languages by Commits" />
+</p>
+ Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Khant20Lin06">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MgZayarNaing&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MgZayarNaing&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<br />
+
+<p align="center">
+  <a href="https://github.com/Khant20Lin06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MgZayarNaing&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khant20Lin06&theme=dark&hide_border=true" />
+  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=MgZayarNaing&column=6&theme=algolia" alt="ZayarNaing" /></p>
 </p>
+ 
+ ### Skills:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🚀 Projects Overview
-* [cite_start]**Fashion E-commerce Platform:** API-driven architecture with variants, warehouse stock, and JWT auth[cite: 41, 42].
-* [cite_start]**Budget Tracker:** Full-stack app with separated frontend/backend repos using Next.js and Django[cite: 38, 39].
-* [cite_start]**AC Service Management:** Role-based lifecycle workflows with auto-cancel automation[cite: 43, 44, 45].
-* [cite_start]**Restaurant Ordering System:** Menu and cart flow integrated with backend validation APIs[cite: 47, 48, 49].
+### Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
+### Hosting/SaaS
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![CPANEL](https://img.shields.io/badge/Cpanel-%E95420.svg?style=for-the-badge&logo=cpanel&logoColor=#f7f7f7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🎓 Certifications
-- [cite_start]Full-Stack Web Development with Python & Django (**DynamixWave**) [cite: 55]
-- [cite_start]Modern Front-End Development with React (**DynamixWave**) [cite: 56]
-- [cite_start]Backend & Frontend Development (**Hit Myanmar**) [cite: 52, 53]
 
----
+### Version Control
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khant20Lin06&label=Profile%20Views&color=0e75b6&style=flat" alt="Khant20Lin06" />
-</p>
+### Server
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+
+### Other
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 💻 OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+### Studying in this moment:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Khant20Lin06}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
