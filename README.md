@@ -1,4 +1,4 @@
-# Hi 👋, I'm Khant Lin (Khant20Lin06)
+# Hi 👋, I'm Khant Lin 
 ### A Passionate Full Stack Developer from Thailand 🇹🇭
 
 <p align="left">
@@ -6,10 +6,10 @@
 <a href="mailto:khant20lin061@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="khant20lin061" height="30" width="40" /></a>
 </p>
 
-- [cite_start]🔭 I’m currently working on **EmergencyMyanmar** and **NeeYr** [cite: 1, 3]
-- [cite_start]🌱 I’m currently learning **Next.js, Python (Django)** and **React Native** [cite: 11, 26, 29]
-- [cite_start]⚡ Knowledge in: **Social Login, OTP, JWT Authentication** and **System Workflows** [cite: 12, 42]
-- [cite_start]📫 Reach me at: **khant20lin061@gmail.com** [cite: 7]
+- 🔭 I’m currently working on **EmergencyMyanmar** and **NeeYr** 
+- 🌱 I’m currently learning **Next.js, Python (Django)** and **React Native** 
+- ⚡ Knowledge in: **Social Login, OTP, JWT Authentication** and **System Workflows** 
+- 📫 Reach me at: **khant20lin061@gmail.com** 
 
 ---
 
@@ -19,10 +19,10 @@
 [cite_start]![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) [cite: 26, 27, 28]
 
 **Backend & Database**
-[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) [cite: 29, 31]
+[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **DevOps & Tools**
-[cite_start]![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) [cite: 30, 33]
+[cite_start]![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ---
 
