@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Khant Lin 👋
 
-<!--
-**Khant20Lin06/Khant20Lin06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in **Mobile** and **Web development**. I love coding and building useful applications.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Tools
+- **Languages:** Python, Dart, HTML, CSS, JavaScript
+- **Frameworks:** React Native, Flutter, Django, Node.js, Tailwind CSS
+- **Cloud/Hosting:** Namecheap, VPS, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Khant20Lin06&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant20Lin06&layout=compact&theme=dark)
+
+### 📱 Projects I'm working on
+- **EmergencyMyanmar**: A React Native emergency assistance app
+- **NeeYr**: A location-based shop recommendation app
+- **Wer-Tee-App**: Dart-based project
