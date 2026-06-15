@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khant Lin.
 - 👀 I’m interested in Django, Nest.js, Express.js, React , Nextjs, ReactNative & Flutter.
 - 🌱 I’m currently learning Nest.js, Express.js & Flutter.
-- 💞️ I’m collaborating on E-commerece, POS & Business Websites.
+- 💞️ I’m collaborating on E-commerece, ERP, POS & Business Websites.
 - 📫 You can reach me using accounts described on my profile. 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
