@@ -52,20 +52,26 @@ I'm a **Software Engineer** focused on building practical, scalable software pro
 - **Live Terminal**: [dot-pos-web.vercel.app](https://dot-pos-web.vercel.app)
 - **APK Distribution**: [Khant20Lin06/dotpos-releases](https://github.com/Khant20Lin06/dotpos-releases)
 
-#### 2. 👗 [Fashion ERP & AI Copilot](https://fashion-erp.vercel.app/)
+#### 2. 🚗 [DOT Enterprise ERP, Workshop & Real-Time POS Engine](https://github.com/Khant20Lin06/dot-enterprise-pos-api)
+*High-Concurrency Backend API for Automotive Garages & Multi-Branch Retail • Pessimistic Row Locking • Reverb WebSockets*
+- **Stack**: Laravel 11 · PHP 8.3 · MySQL 8.0 ACID · Laravel Reverb · Redis 7 · Laravel Horizon · Pest PHP 3 · Docker
+- **GitHub**: [Khant20Lin06/dot-enterprise-pos-api](https://github.com/Khant20Lin06/dot-enterprise-pos-api)
+- **API Specs**: [docs/API_SPEC.md](https://github.com/Khant20Lin06/dot-enterprise-pos-api/blob/master/docs/API_SPEC.md)
+
+#### 3. 👗 [Fashion ERP & AI Copilot](https://fashion-erp.vercel.app/)
 *Enterprise ERP with Integrated POS, Multi-Agent AI Intent Routing & Automated Telegram Bots*
 - **Stack**: Next.js · Flutter · NestJS · PostgreSQL · Redis · Qdrant · n8n · MCP · Kafka
 - **GitHub**: [Khant20Lin06/erp-fashion-api](https://github.com/Khant20Lin06/erp-fashion-api)
 
-#### 3. 🚚 [WerTe — Real-Time Logistics & Dispatch Platform](https://wer-tee-admin.vercel.app/)
+#### 4. 🚚 [WerTe — Real-Time Logistics & Dispatch Platform](https://wer-tee-admin.vercel.app/)
 *Real-time WebSocket Order Tracking, 9-Stage State Machine & Redis Geospatial Fleet Telemetry*
 - **Stack**: Next.js · NestJS · WebSockets · Redis Geo · Docker · Kubernetes HPA
 
-#### 4. 🎟️ [AURA — Ticket & Fan Arena Ingress Platform](https://event-ticket-rust-nu.vercel.app/)
+#### 5. 🎟️ [AURA — Ticket & Fan Arena Ingress Platform](https://event-ticket-rust-nu.vercel.app/)
 *Atomic Seat Reservation Matrix (Zero Double-Booking) with Dynamic QR Admission Passes*
 - **Stack**: Next.js · TypeScript · Redis SET NX PX Locks · Tailwind CSS
 
-#### 5. 🛡️ [NeeYrAPI — Enterprise Core API Engine](https://github.com/Khant20Lin06/neryarapi)
+#### 6. 🛡️ [NeeYrAPI — Enterprise Core API Engine](https://github.com/Khant20Lin06/neryarapi)
 *12-Module Micro-Architecture, drf-spectacular OpenAPI 3.0 Contract & Hierarchical RBAC*
 - **Stack**: Python · Django · Django REST Framework · PostgreSQL · 105 Automated Tests
 
@@ -75,6 +81,10 @@ I'm a **Software Engineer** focused on building practical, scalable software pro
 
 #### ⚡ Backend & APIs
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Laravel_Reverb-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Reverb"/>
+  <img src="https://img.shields.io/badge/Pest_PHP_3-10B981?style=for-the-badge&logo=pest&logoColor=white" alt="Pest PHP"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
