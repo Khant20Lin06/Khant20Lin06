@@ -112,6 +112,8 @@ I'm a **Software Engineer** focused on building practical, scalable software pro
 
 #### 🤖 AI Engineering & Workflow Automation
 <p align="left">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Vector_Embeddings-059669?style=for-the-badge&logo=vectorlogomaker&logoColor=white" alt="Vector Embeddings"/>
   <img src="https://img.shields.io/badge/Multi--Agent_RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent"/>
   <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
@@ -130,6 +132,16 @@ I'm a **Software Engineer** focused on building practical, scalable software pro
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+#### 🧪 Testing & Quality Assurance
+<p align="left">
+  <img src="https://img.shields.io/badge/Pest_PHP_3-10B981?style=for-the-badge&logo=pest&logoColor=white" alt="Pest PHP"/>
+  <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10_API-005571?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/Automated_CI_Tests-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI Testing"/>
 </p>
 
 #### ☁️ DevOps, Cloud & Infrastructure
